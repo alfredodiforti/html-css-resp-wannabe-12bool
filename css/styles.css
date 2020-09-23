@@ -1,0 +1,26 @@
+/* GENERAL */
+body {
+  padding-top: 30px;
+}
+/* TEXT */
+h2 {
+  text-align: center;
+}
+p {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+/* IMG */
+img {
+  height: 150px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+/* STYLE */
+.box {
+  text-align: center;
+  padding-bottom: 30px;
+}
+.backgroundcolor {
+  background-color: #f9f9f9;
+}
